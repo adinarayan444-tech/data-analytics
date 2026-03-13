@@ -1,6 +1,6 @@
 Data Analytics Portfolio – Dashboard Projects
 
-This repository contains my Data Analytics dashboard projects created using Microsoft Power BI and Microsoft Excel.
+This repository contains my Data Analytics dashboard projects created using Microsoft Power BI
 
 Projects Included:
 
